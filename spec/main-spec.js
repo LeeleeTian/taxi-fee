@@ -1,4 +1,4 @@
-// 'use strict'
+'use strict'
 
 const main = require('../main/main');
 
